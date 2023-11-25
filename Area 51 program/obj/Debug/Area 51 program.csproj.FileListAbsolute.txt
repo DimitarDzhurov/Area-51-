@@ -1,0 +1,7 @@
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\bin\Debug\Area 51 program.exe.config
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\bin\Debug\Area 51 program.exe
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\bin\Debug\Area 51 program.pdb
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\obj\Debug\Area 51 program.csprojAssemblyReference.cache
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\obj\Debug\Area 51 program.csproj.CoreCompileInputs.cache
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\obj\Debug\Area 51 program.exe
+E:\PROGRAMMS\C# programmes\Area 51 program\Area 51 program\obj\Debug\Area 51 program.pdb
